@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: isel.pfc.lzma_xz
+OpenIDE-Module-Localizing-Bundle: isel/pfc/lzma_xz/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

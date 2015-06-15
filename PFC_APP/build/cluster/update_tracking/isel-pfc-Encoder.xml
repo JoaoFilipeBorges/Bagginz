@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="isel.pfc.Encoder">
+    <module_version install_time="1434401721753" last="true" origin="installer" specification_version="1.0">
+        <file crc="2583565768" name="config/Modules/isel-pfc-Encoder.xml"/>
+        <file crc="1032049751" name="modules/isel-pfc-Encoder.jar"/>
+    </module_version>
+</module>

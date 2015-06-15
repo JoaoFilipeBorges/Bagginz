@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="isel.pfc.DictSpecialization">
+    <module_version install_time="1434401727273" last="true" origin="installer" specification_version="1.0">
+        <file crc="913171142" name="config/Modules/isel-pfc-DictSpecialization.xml"/>
+        <file crc="1796707606" name="modules/isel-pfc-DictSpecialization.jar"/>
+    </module_version>
+</module>

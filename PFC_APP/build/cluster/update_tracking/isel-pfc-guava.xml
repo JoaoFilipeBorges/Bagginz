@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="isel.pfc.guava">
+    <module_version install_time="1434401722609" last="true" origin="installer" specification_version="1.0">
+        <file crc="2439403302" name="config/Modules/isel-pfc-guava.xml"/>
+        <file crc="3315777451" name="modules/ext/guava-18.0.jar"/>
+        <file crc="902933646" name="modules/isel-pfc-guava.jar"/>
+    </module_version>
+</module>

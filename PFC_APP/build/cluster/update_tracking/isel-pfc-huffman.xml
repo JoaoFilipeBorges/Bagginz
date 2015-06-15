@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="isel.pfc.huffman">
+    <module_version install_time="1434401725990" last="true" origin="installer" specification_version="1.0">
+        <file crc="4238028800" name="config/Modules/isel-pfc-huffman.xml"/>
+        <file crc="1117905754" name="modules/isel-pfc-huffman.jar"/>
+    </module_version>
+</module>

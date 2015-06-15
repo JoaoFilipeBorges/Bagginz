@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="isel.pfc.specialization">
+    <module_version install_time="1434401727784" last="true" origin="installer" specification_version="1.0">
+        <file crc="1168585166" name="config/Modules/isel-pfc-specialization.xml"/>
+        <file crc="794331062" name="modules/isel-pfc-specialization.jar"/>
+    </module_version>
+</module>

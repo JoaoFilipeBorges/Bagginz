@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="isel-pfc-core-pfcWindowTopComponent.shadow">
+                <!--isel.pfc.core.pfcWindowTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/isel-pfc-core-pfcWindowTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="pfcWindowTopComponent.settings">
+                <!--isel.pfc.core.pfcWindowTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="isel.pfc.core.pfcWindowTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="output">
+                <file name="pfcWindowTopComponent.wstcref">
+                    <!--isel.pfc.core.pfcWindowTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="pfcWindowTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="isel-pfc-core-pfcWindowTopComponent.instance">
+                <!--isel.pfc.core.pfcWindowTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="isel.pfc.core.pfcWindowTopComponent"/>
+                <attr name="preferredID" stringvalue="pfcWindowTopComponent"/>
+                <attr
+                    bundlevalue="isel.pfc.core.Bundle#CTL_pfcWindowAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="isel_pfc_core">
+                <file name="pfcWindow" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--isel.pfc.core.pfcWindowTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//isel.pfc.core//pfcWindow//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="isel">
+                <folder name="pfc">
+                    <folder name="core">
+                        <file name="pfcWindowTopComponent">
+                            <!--isel.pfc.core.pfcWindowTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//isel_pfc_core/pfcWindow.instance"/>
+                        </file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="isel_pfc_core">
+                <file name="pfcWindow.instance">
+                    <!--isel.pfc.core.pfcWindowTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="isel.pfc.core.pfcWindowTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="isel.pfc.core.pfcWindowTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

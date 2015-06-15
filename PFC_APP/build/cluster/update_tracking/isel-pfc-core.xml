@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="isel.pfc.core">
+    <module_version install_time="1434401731957" last="true" origin="installer" specification_version="1.0">
+        <file crc="2615907322" name="config/Modules/isel-pfc-core.xml"/>
+        <file crc="699525525" name="modules/isel-pfc-core.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="isel.pfc.filesHandler">
+    <module_version install_time="1434401723031" last="true" origin="installer" specification_version="1.0">
+        <file crc="3743089735" name="config/Modules/isel-pfc-filesHandler.xml"/>
+        <file crc="1686205673" name="modules/isel-pfc-filesHandler.jar"/>
+    </module_version>
+</module>

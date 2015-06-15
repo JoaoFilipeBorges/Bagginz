@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: isel.pfc.javaSpecial
+OpenIDE-Module-Localizing-Bundle: isel/pfc/javaSpecial/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

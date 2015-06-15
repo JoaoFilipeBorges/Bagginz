@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="isel.pfc.calculus">
+    <module_version install_time="1434401725568" last="true" origin="installer" specification_version="1.0">
+        <file crc="965768445" name="config/Modules/isel-pfc-calculus.xml"/>
+        <file crc="3379951759" name="modules/isel-pfc-calculus.jar"/>
+    </module_version>
+</module>

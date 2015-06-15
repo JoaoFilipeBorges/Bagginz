@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="isel.pfc.arithmetic">
+    <module_version install_time="1434401723350" last="true" origin="installer" specification_version="1.0">
+        <file crc="847911803" name="config/Modules/isel-pfc-arithmetic.xml"/>
+        <file crc="3465220133" name="modules/isel-pfc-arithmetic.jar"/>
+    </module_version>
+</module>

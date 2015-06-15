@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="isel.pfc.lzw">
+    <module_version install_time="1434401727036" last="true" origin="installer" specification_version="1.0">
+        <file crc="262007780" name="config/Modules/isel-pfc-lzw.xml"/>
+        <file crc="2102598574" name="modules/isel-pfc-lzw.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="isel.pfc.techniqHandler">
+    <module_version install_time="1434401727971" last="true" origin="installer" specification_version="1.0">
+        <file crc="1829201858" name="config/Modules/isel-pfc-techniqHandler.xml"/>
+        <file crc="1949930045" name="modules/isel-pfc-techniqHandler.jar"/>
+    </module_version>
+</module>

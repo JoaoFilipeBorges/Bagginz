@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="isel.pfc.lzma">
+    <module_version install_time="1434401726771" last="true" origin="installer" specification_version="1.0">
+        <file crc="260488439" name="config/Modules/isel-pfc-lzma.xml"/>
+        <file crc="644895893" name="modules/isel-pfc-lzma.jar"/>
+    </module_version>
+</module>

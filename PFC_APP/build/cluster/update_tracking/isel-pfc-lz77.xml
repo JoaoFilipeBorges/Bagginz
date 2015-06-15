@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="isel.pfc.lz77">
+    <module_version install_time="1434401726449" last="true" origin="installer" specification_version="1.0">
+        <file crc="1878966463" name="config/Modules/isel-pfc-lz77.xml"/>
+        <file crc="461779690" name="modules/isel-pfc-lz77.jar"/>
+    </module_version>
+</module>
